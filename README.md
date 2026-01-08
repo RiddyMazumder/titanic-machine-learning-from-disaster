@@ -1,4 +1,3 @@
-# Titanic Machine Learning from Disaster
 # 🚢 Titanic: Machine Learning from Disaster
 
 Predicting passenger survival on the Titanic using machine learning.
