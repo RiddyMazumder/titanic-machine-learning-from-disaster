@@ -1,4 +1,2 @@
-titanic-solution.ipynb 
- linguist-language= Jupyter Notebook
-titanic-solution.py 
- linguist-language= Python
+# Auto detect text files and perform LF normalization
+* text=auto
